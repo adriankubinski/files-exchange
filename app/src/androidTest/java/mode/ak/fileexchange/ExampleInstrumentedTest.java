@@ -1,4 +1,4 @@
-package mode.ak.fileexchangeandroid;
+package mode.ak.fileexchange;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
